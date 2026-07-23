@@ -8,7 +8,7 @@ The firmware is intended to be flashed onto an ESP32 and used exclusively with t
 
 The recommended installation method is through the official Modena Robotics website:
 
-**https://modena-robotics.com/virtual-controller**
+**https://modena-robotics.com/mr3-mini-virtual-controller**
 
 ## License
 
