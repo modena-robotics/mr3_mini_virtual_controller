@@ -1,0 +1,15 @@
+{
+  "name": "MR-3 Mini Virtual Controller",
+  "version": "v0.1.0",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/modena-robotics/mr3_mini_virtual_controller/main/mr3_virtual_controller.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}

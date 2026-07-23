@@ -1,0 +1,21 @@
+MR-3 Virtual Controller Firmware License
+
+Copyright (c) 2026 Modena Robotics
+
+All rights reserved.
+
+Permission is granted to use the provided firmware binary (.bin) solely for flashing an ESP32 to operate as the MR-3 Mini Virtual Controller in conjunction with the official MR-3 Mini ROS 2 software stack.
+
+This firmware may not be:
+
+- Used with any robot, machine, or system other than the MR-3 Mini Virtual Controller.
+- Used with any software other than the official MR-3 Mini ROS 2 software stack.
+- Modified, reverse engineered, decompiled, disassembled, or redistributed.
+- Used for commercial purposes.
+- Used as the basis for any derivative work.
+
+This firmware is provided exclusively to allow users to evaluate, explore, and interact with the MR-3 Mini Virtual Controller and the official MR-3 Mini ROS 2 software stack.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL MODENA ROBOTICS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
+
+Any use not expressly permitted by this license is prohibited.
