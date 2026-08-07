@@ -1,6 +1,6 @@
 {
   "name": "MR-3 Mini Virtual Controller",
-  "version": "v0.1.1",
+  "version": "v0.2.0",
   "builds": [
     {
       "chipFamily": "ESP32",
